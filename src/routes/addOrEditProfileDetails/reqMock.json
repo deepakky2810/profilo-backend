@@ -1,0 +1,32 @@
+{
+  "userId": -1,
+  "firstName": "Deepak",
+  "middleName": "Kumar",
+  "lastName": "Yadav",
+  "dob": "1999-10-28",
+  "profilePictureUrl": "https://avatars.dicebear.com/api/male/chill.svg",
+  "facebookUrl": "#",
+  "githubUrl": "#",
+  "linkedinUrl": "#",
+  "instagramUrl": "#",
+  "workExperiences": [
+    {
+      "startDate": "1999-10-28",
+      "endDate": "",
+      "presentlyWorking": true,
+      "jobTitle": "Full-Stack Engineer Intern",
+      "company": "HighRadius Corporation",
+      "companyLogoUrl": "https://cdn.highradius.com/wp-content/uploads/2020/09/HighRadius-Trifecta-2020.svg",
+      "jobDescription": "React is a JavaScript library which was developed by facebook and is used for building user-interfaces for web and mobile apps. React is a JavaScript library which was developed by facebook and is used for building user-interfaces for web and mobile apps."
+    },
+    {
+      "startDate": "1999-10-28",
+      "endDate": "",
+      "presentlyWorking": true,
+      "jobTitle": "Full-Stack Engineer Intern",
+      "company": "HighRadius Corporation",
+      "companyLogoUrl": "https://cdn.highradius.com/wp-content/uploads/2020/09/HighRadius-Trifecta-2020.svg",
+      "jobDescription": "React is a JavaScript library which was developed by facebook and is used for building user-interfaces for web and mobile apps. React is a JavaScript library which was developed by facebook and is used for building user-interfaces for web and mobile apps."
+    }
+  ]
+}
